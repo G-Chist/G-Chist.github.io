@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an autonomous vehicle researcher at [WPI](https://www.wpi.edu) and a free and open source software (FOSS) enjoyer.
+I am an autonomous vehicle researcher at AVMI at [WPI](https://www.wpi.edu).
 
-My research interests include autonomous vehicles, robot perception, and procedural generation. In my spare time I like to build open source tools, terminal user interfaces, and other fun projects you can find on [my GitHub](https://github.com/G-Chist).
+My research interests include autonomous vehicles, robot perception, and procedural generation. In my spare time I like to play music, read, build open source tools, terminal user interfaces, and other fun projects you can find on [my GitHub](https://github.com/G-Chist).
 
 ## Selected projects
 
