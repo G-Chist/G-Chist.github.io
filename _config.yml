@@ -13,7 +13,7 @@ title                    : "Matvey Shestopalov"
 title_separator          : "-"
 name                     : &name "Matvey Shestopalov"
 description              : &description "Autonomous vehicle researcher at WPI and FOSS enjoyer"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://gchist.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://g-chist.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "G-Chist/gchist.github.io"
