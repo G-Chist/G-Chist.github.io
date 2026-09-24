@@ -9,7 +9,7 @@ redirect_from:
 
 I am an autonomous vehicle researcher at AVMI at [WPI](https://www.wpi.edu).
 
-My research interests include autonomous vehicles, robot perception, and procedural generation. In my spare time I like to play music, read, build open source tools, terminal user interfaces, and other fun projects you can find on [my GitHub](https://github.com/G-Chist).
+My research interests include autonomous vehicles, robot perception, and procedural generation. In my spare time I like to play music, read, build open source tools, terminal user interfaces, and other projects you can find on [my GitHub](https://github.com/G-Chist).
 
 ## Selected projects
 
